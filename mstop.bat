@@ -1,0 +1,1 @@
+call 	docker stop docker-statsd-influxdb-grafana
